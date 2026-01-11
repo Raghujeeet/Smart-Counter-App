@@ -1,4 +1,4 @@
-# Smart-Counter-App
+# Smart Counter App
 
 This project demonstrates core JavaScript concepts such as DOM manipulation,
 event handling, and input validation.
